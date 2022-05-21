@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="network-cellular-acquiring-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="16px"
+     inkscape:zoom="22.627417"
+     inkscape:cx="6.1871843"
+     inkscape:cy="12.065009"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect843"
+     style="display:inline;opacity:0.15;fill:#363636;stroke-width:3;stroke-linejoin:round"
+     d="m 14,1 c -0.554,0 -1,0.446 -1,1 v 4 c 1.090687,0 1.972723,0.8633852 2,1.9472656 V 2 C 15,1.446 14.554,1 14,1 Z M 10,4 C 9.4460003,4 9,4.4460003 9,5 v 1 h 2 V 5 C 11,4.4460003 10.554,4 10,4 Z m 5,4.0527344 C 14.972723,9.1366148 14.090687,10 13,10 v 4 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 z M 5,10 v 4 c 0,0.554 0.4460003,1 1,1 0.5540001,0 1,-0.446 1,-1 v -4 z m 4,0 v 4 c 0,0.554 0.4460003,1 1,1 0.554,0 1,-0.446 1,-1 V 10 Z M 1.9746094,12 C 1.4326694,12.013639 1,12.454657 1,13 v 1 c 0,0.554 0.4460003,1 1,1 0.5540001,0 1,-0.446 1,-1 v -1 c 0,-0.554 -0.4459999,-1 -1,-1 -0.00866,0 -0.016788,-2.16e-4 -0.025391,0 z"
+     transform="scale(0.26458333)"
+     sodipodi:nodetypes="ssccssssccssccsssccssscccssscccssssssc" />
+  <path
+     id="path948"
+     style="fill:#363636;stroke-width:3;stroke-linejoin:round"
+     d="m 4.0000001,7 c -0.5522848,1e-7 -1,0.4477153 -1,1 0,0.5522847 0.4477152,0.9999999 1,1 0.5522847,-10e-8 0.9999999,-0.4477153 1,-1 -1e-7,-0.5522847 -0.4477153,-0.9999999 -1,-1 z M 8,7 c -0.5522847,1e-7 -0.9999999,0.4477153 -1,1 1e-7,0.5522847 0.4477153,0.9999999 1,1 0.5522847,-10e-8 0.9999999,-0.4477153 1,-1 -10e-8,-0.5522847 -0.4477153,-0.9999999 -1,-1 z m 4,0 c -0.552285,1e-7 -1,0.4477153 -1,1 0,0.5522847 0.447715,0.9999999 1,1 0.552285,-10e-8 1,-0.4477153 1,-1 0,-0.5522847 -0.447715,-0.9999999 -1,-1 z"
+     transform="scale(0.26458333)"
+     sodipodi:nodetypes="sssssssssssssss" />
+</svg>
