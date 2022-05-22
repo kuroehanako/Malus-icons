@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="polari.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="49.625"
+     inkscape:cx="7.9899244"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="fill:#6dd594;stroke-width:0.264583;fill-opacity:1"
+     id="rect846"
+     width="4.2333336"
+     height="4.2333336"
+     x="-2.220446e-16"
+     y="0"
+     ry="1.0583334" />
+  <path
+     id="path2539"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:3.07409;stroke-linejoin:round"
+     d="M 8 2 A 5.9999998 5.25 0 0 0 2 7.25 A 5.9999998 5.25 0 0 0 4.2636719 11.357422 L 4 14 L 6.2910156 12.28125 A 5.9999998 5.25 0 0 0 8 12.5 A 5.9999998 5.25 0 0 0 14 7.25 A 5.9999998 5.25 0 0 0 8 2 z "
+     transform="scale(0.26458334)" />
+  <path
+     id="rect844"
+     style="opacity:1;fill:#547460;fill-opacity:1;stroke-width:0.999999"
+     d="M 6 4 L 6 5 L 5 5 L 5 6 L 6 6 L 6 8 L 5 8 L 5 9 L 6 9 L 6 10 L 7 10 L 7 9 L 9 9 L 9 10 L 10 10 L 10 9 L 11 9 L 11 8 L 10 8 L 10 6 L 11 6 L 11 5 L 10 5 L 10 4 L 9 4 L 9 5 L 7 5 L 7 4 L 6 4 z M 7 6 L 9 6 L 9 8 L 7 8 L 7 6 z "
+     transform="scale(0.26458334)" />
+</svg>
