@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="dialog-error.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="32px"
+     inkscape:zoom="4.3586504"
+     inkscape:cx="25.007741"
+     inkscape:cy="58.389634"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <circle
+     style="opacity:0.2;fill:#1a1a1a;fill-opacity:1;stroke-width:3.14954;stroke-linejoin:round"
+     id="path1154"
+     cx="8.4666643"
+     cy="8.7312469"
+     r="7.4083304" />
+  <circle
+     style="fill:#ff734e;fill-opacity:1;stroke-width:0.56016"
+     id="path846"
+     cx="8.4666634"
+     cy="8.4666634"
+     r="7.4083304" />
+  <path
+     id="rect1024"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:3.06376;stroke-linejoin:round"
+     d="M 11.460118,4.7249281 8.4667001,7.7183455 5.4732826,4.7249281 4.7249281,5.4732826 7.7183453,8.4667001 4.7249281,11.460118 5.4732826,12.208472 8.4667001,9.2150546 11.460118,12.208472 12.208472,11.460118 9.2150546,8.4667001 12.208472,5.4732826 Z" />
+  <path
+     id="path12207"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:1.5875;stroke-linejoin:round"
+     d="m 8.4666665,1.0583333 a 7.4083303,7.4083303 0 0 0 -7.4083332,7.4083333 7.4083303,7.4083303 0 0 0 0.0062,0.085783 7.4083303,7.4083303 0 0 1 7.402132,-7.2295329 7.4083303,7.4083303 0 0 1 7.4047157,7.1949095 7.4083303,7.4083303 0 0 0 0.0036,-0.05116 7.4083303,7.4083303 0 0 0 -7.4083327,-7.4083333 z" />
+</svg>
