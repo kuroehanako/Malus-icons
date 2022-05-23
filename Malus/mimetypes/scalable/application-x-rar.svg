@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   sodipodi:docname="application-x-arc.svg"
+   sodipodi:docname="application-x-rar.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -39,7 +39,7 @@
      id="defs2" />
   <path
      id="rect1068"
-     style="fill:#65ca95;fill-opacity:1;stroke-width:0.529167;stroke-linejoin:round"
+     style="fill:#6d3fac;fill-opacity:1;stroke-width:0.529167;stroke-linejoin:round"
      d="m 3.175,0.5291667 7.143751,3e-8 3.968749,3.96874997 1e-6,11.3770833 c 0,0.293158 -0.236009,0.529167 -0.529167,0.529167 H 3.175 c -0.2931584,0 -0.5291667,-0.236009 -0.5291667,-0.529167 V 1.0583334 c 0,-0.29315835 0.2360083,-0.5291667 0.5291667,-0.5291667 z"
      sodipodi:nodetypes="cccsssssc" />
   <path

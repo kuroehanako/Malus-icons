@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666665 8.466667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="system-file-manager.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="24.8125"
+     inkscape:cx="15.979849"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="fill:#2696f7;stroke-width:0.264583;fill-opacity:1"
+     id="rect846"
+     width="7.9375"
+     height="7.9375"
+     x="0.26458335"
+     y="0.26458335"
+     ry="1.5875" />
+  <path
+     id="path3333"
+     style="color:#000000;fill:#dcf4ff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 4.2332857,0.26458334 C 3.7151619,1.4987952 3.3145808,3.839892 3.3130019,4.4736703 c 2.778e-4,0.00233 -0.00146,0.024146 0.00242,0.048493 0.029111,0.1897869 0.097268,0.2303695 0.2564675,0.2403367 h 0.9260273 c 0.018221,1.4014944 0.113325,2.3084612 0.2645356,3.4395834 h 1.8520834 c 0.879475,0 1.5875,-0.708025 1.5875,-1.5875 V 1.8520833 c 0,-0.87947503 -0.708025,-1.58749996 -1.5875,-1.58749996 z"
+     sodipodi:nodetypes="ccccccssssc" />
+  <path
+     d="m 2.3114006,2.6458524 c -0.1075774,0.0027 -0.1935283,0.08994 -0.1935283,0.1979206 v 0.3976502 c 0,0.1096941 0.088466,0.1979208 0.1984375,0.1979208 0.1099712,0 0.1986959,-0.088227 0.1986959,-0.1979208 V 2.843773 c 0,-0.1096941 -0.088725,-0.1979206 -0.1986959,-0.1979206 -0.00172,0 -0.0032,-4.29e-5 -0.00491,0 z m 3.8361997,0 c -0.1076114,0 -0.193528,0.08994 -0.193528,0.1979206 v 0.3976502 c 0,0.1096941 0.088724,0.1979208 0.198696,0.1979208 0.109971,0 0.198437,-0.088227 0.198437,-0.1979208 V 2.843773 c 0,-0.1096941 -0.088466,-0.1979206 -0.198437,-0.1979206 h -0.00516 z M 2.3419386,5.6404226 C 2.2292061,5.6405396 2.168107,5.7724271 2.2409113,5.8584971 2.6574195,6.3650076 3.4206479,6.6064896 4.190663,6.6134901 4.9606781,6.6194901 5.750071,6.3889436 6.2225805,5.8719331 6.363217,5.7413416 6.14472,5.5419446 6.027502,5.6939076 5.6294935,6.1294166 4.9069857,6.3544071 4.1924716,6.3489066 3.4779578,6.3434066 2.7845567,6.1032991 2.44555,5.6902901 2.4204005,5.6587651 2.3822647,5.6404151 2.3419386,5.6404251 Z"
+     style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;stroke-width:0.50001"
+     id="path1032"
+     sodipodi:nodetypes="ssssssssssssssssscccccsccc" />
+  <path
+     id="rect1107"
+     style="opacity:0.2;fill:#ffffff;stroke-width:0.79375;stroke-linejoin:round"
+     d="m 1.8520834,0.26458334 c -0.8794751,0 -1.58750006,0.70802492 -1.58750006,1.58750006 v 0.2645834 c 0,-0.8794751 0.70802496,-1.58750012 1.58750006,-1.58750012 h 4.7625001 c 0.879475,0 1.5875001,0.70802502 1.5875001,1.58750012 V 1.8520834 c 0,-0.87947514 -0.7080251,-1.58750006 -1.5875001,-1.58750006 z"
+     sodipodi:nodetypes="sscsscsss" />
+  <path
+     id="rect1153"
+     style="opacity:0.2;fill:#000000;stroke-width:0.79375;stroke-linejoin:round"
+     d="m 0.26458334,6.3500001 v 0.2645834 c 0,0.879475 0.70802496,1.5875 1.58750006,1.5875 h 4.7625001 c 0.879475,0 1.5875001,-0.708025 1.5875001,-1.5875 V 6.3500001 c 0,0.879475 -0.7080251,1.5875001 -1.5875001,1.5875001 H 1.8520834 c -0.8794751,0 -1.58750006,-0.7080251 -1.58750006,-1.5875001 z"
+     sodipodi:nodetypes="csssscssc" />
+</svg>
