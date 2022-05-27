@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="audio-volume-overampified-symbolic.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="19.866147"
+     inkscape:cx="0.93123241"
+     inkscape:cy="9.3878294"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     fill="#dedede"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="2.001"
+     style="paint-order:stroke fill markers"
+     aria-label=""
+     id="g4">
+    <path
+       id="path2"
+       d="M 5.2929688,1.9960938 2.2910156,4.9980469 H 1 c -0.55232375,0 -1.000055149509,0.4477314 -1,1 v 4.0039061 c -5.5149509e-5,0.552269 0.44767625,1 1,1 h 1.2910156 l 3.0019532,3.001953 H 6.0039062 V 1.9960938 Z M 5.0019531,3.7089844 V 12.291016 L 2.7128906,10 H 1 V 6 h 1.7128906 z"
+       sodipodi:nodetypes="ccsccscccccccccccc" />
+  </g>
+  <rect
+     x="8"
+     y="5"
+     width="1"
+     height="6"
+     rx="0"
+     ry="0"
+     fill="#dedede"
+     fill-rule="evenodd"
+     stroke-width="0.86602"
+     style="paint-order:stroke fill markers"
+     id="rect616" />
+  <rect
+     x="11.000001"
+     y="3"
+     width="1"
+     height="10"
+     rx="0"
+     ry="0"
+     fill="#dedede"
+     fill-rule="evenodd"
+     style="paint-order:stroke fill markers"
+     id="rect618" />
+  <rect
+     x="14.000001"
+     y="1"
+     width="1"
+     height="14"
+     rx="0"
+     ry="0"
+     fill="#dedede"
+     fill-rule="evenodd"
+     stroke-width="1.0801"
+     style="paint-order:stroke fill markers"
+     id="rect620" />
+</svg>

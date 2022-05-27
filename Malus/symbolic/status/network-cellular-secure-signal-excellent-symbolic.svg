@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="network-cellular-secure-signal-excellent-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="16px"
+     inkscape:zoom="49"
+     inkscape:cx="8.0306122"
+     inkscape:cy="8.0306122"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect843"
+     style="opacity:1;fill:#363636;stroke-width:3;stroke-linejoin:round"
+     d="M 14 1 C 13.446001 1 13 1.4460006 13 2 L 13 8.0000001 C 13.737897 7.9999286 14.44994 8.271812 15 8.763672 L 15 2 C 15 1.4460006 14.554 1 14 1 z M 10 4.0000001 C 9.446001 4.0000001 9.0000001 4.4460009 9.0000001 5.0000001 L 9.0000001 11 L 10 11 A 2.9999999 2.9999999 0 0 1 11 8.7656251 L 11 5.0000001 C 11 4.4460009 10.554 4.0000001 10 4.0000001 z M 6.0000001 8.0000001 C 5.446001 8.0000001 5.0000001 8.446001 5.0000001 9.0000001 L 5.0000001 14 C 5.0000001 14.554 5.446001 15 6.0000001 15 C 6.5539996 15 7.0000001 14.554 7.0000001 14 L 7.0000001 9.0000001 C 7.0000001 8.446001 6.5539996 8.0000001 6.0000001 8.0000001 z M 12.947266 9.0000001 C 11.863386 9.0278253 11 9.9277666 11 11.03125 L 11 12 L 10 12 L 10 16 L 16 16 L 16 12 L 15 12 L 15 11.03125 C 15 9.9112511 14.107998 9.0000001 13 9.0000001 C 12.982688 9.0000001 12.96447 8.9995584 12.947266 9.0000001 z M 13 10 C 13.553999 10 14 10.442001 14 11 L 14 12 L 12 12 L 12 11 C 12 10.442001 12.446001 10 13 10 z M 1.9746094 12 C 1.4326699 12.013639 1 12.454658 1 13 L 1 14 C 1 14.554 1.4460009 15 2 15 C 2.5539996 15 3 14.554 3 14 L 3 13 C 3 12.446001 2.5539996 12 2 12 C 1.9913438 12 1.9832116 11.999784 1.9746094 12 z "
+     transform="scale(0.26458333)" />
+</svg>

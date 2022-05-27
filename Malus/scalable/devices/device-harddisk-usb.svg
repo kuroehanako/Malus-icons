@@ -7,11 +7,10 @@
    viewBox="0 0 16.933333 16.933334"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="device-harddisk-usb.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -26,54 +25,19 @@
      showgrid="false"
      units="px"
      height="64px"
-     inkscape:zoom="14.436363"
-     inkscape:cx="31.967885"
-     inkscape:cy="32.487407"
+     inkscape:zoom="5.1040251"
+     inkscape:cx="-20.865885"
+     inkscape:cy="36.735713"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
-     id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient6967">
-      <stop
-         style="stop-color:#4c6565;stop-opacity:1"
-         offset="0"
-         id="stop6963" />
-      <stop
-         style="stop-color:#4c6565;stop-opacity:0"
-         offset="0.23112841"
-         id="stop7419" />
-      <stop
-         style="stop-color:#4c6565;stop-opacity:0"
-         offset="1"
-         id="stop6965" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6967"
-       id="linearGradient5316"
-       x1="10.633923"
-       y1="15.412689"
-       x2="25.955433"
-       y2="16.471022"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-10.104756,-8.1792812)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6967"
-       id="linearGradient6405"
-       x1="26.508923"
-       y1="15.941854"
-       x2="10.609599"
-       y2="17.529354"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-10.104756,-8.1792807)" />
-  </defs>
+     id="defs2" />
   <path
      id="path1957"
      style="color:#000000;fill:#bfcdd0;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
@@ -85,15 +49,6 @@
      d="M 14.003906,5 C 11.465678,4.9994304 9.3289239,6.9007011 9.0351562,9.421875 L 5.0524213,44.486328 C 5.6790858,42.46082 7.5317433,41 9.7321087,41 H 54.264062 c 2.190492,0 4.037085,1.447625 4.671875,3.458984 L 54.964844,9.421875 C 54.671061,6.9007015 52.536279,4.9994308 49.998047,5 Z"
      sodipodi:nodetypes="cccsscccc"
      transform="scale(0.26458334)" />
-  <path
-     id="path1957-5"
-     style="color:#000000;opacity:0.4;fill:url(#linearGradient6405);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="M 3.705165,1.322916 C 3.033591,1.322765 2.468242,1.82581 2.390517,2.49287 L 1.076385,14.045654 C 1.19242,13.282037 1.848774,12.700516 2.645798,12.700516 h 11.641667 c 0.784556,0 1.432453,0.563514 1.563212,1.309481 L 14.542747,2.49287 C 14.465017,1.82581 13.900189,1.322765 13.228615,1.322916 Z m -2.639632,12.815755 -0.0072,0.06356 h 0.0026 c 0.0011,-0.02137 0.0027,-0.04242 0.0046,-0.06356 z"
-     inkscape:label="path1957-5" />
-  <path
-     id="path1957-3"
-     style="color:#000000;opacity:0.4;fill:url(#linearGradient5316);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="m 3.7051643,1.3229167 c -0.671574,-1.51e-4 -1.236923,0.502893 -1.314648,1.169954 L 1.0763853,14.045654 c 0.116035,-0.763617 0.772389,-1.345138 1.569412,-1.345138 H 14.287465 c 0.784556,0 1.432453,0.563515 1.563212,1.309481 L 14.542747,2.4928707 c -0.07773,-0.667061 -0.642558,-1.170105 -1.314132,-1.169954 z m -2.639631,12.8157553 -0.0072,0.06356 h 0.0026 c 0.0011,-0.02137 0.0027,-0.04243 0.0046,-0.06356 z" />
   <path
      id="rect846"
      style="fill:#5e5e5e;stroke-width:0.237835;fill-opacity:1"
