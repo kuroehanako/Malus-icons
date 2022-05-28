@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
-   sodipodi:docname="multimedia-video-player.svg"
+   sodipodi:docname="bluetooth.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -39,7 +39,7 @@
   <defs
      id="defs2" />
   <rect
-     style="fill:#8f37be;stroke-width:0.264583;fill-opacity:1"
+     style="fill:#2696f7;stroke-width:0.264583;fill-opacity:1"
      id="rect846"
      width="7.9375"
      height="7.9375"
@@ -47,14 +47,9 @@
      y="0.26458335"
      ry="1.5875" />
   <path
-     d="M 3.0097114,2.4333367 C 2.7266322,2.2799705 2.3817599,2.4836473 2.38125,2.804497 v 3.386839 c 5.099e-4,0.3208496 0.3453822,0.5245272 0.6284614,0.3711608 L 6.1280522,4.8697401 c 0.2959304,-0.160342 0.2959304,-0.5833049 0,-0.7436469 z"
-     style="color:#000000;opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.680205;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;-inkscape-stroke:none"
-     id="path582" />
-  <path
-     d="M 3.0097114,2.1687533 C 2.7266322,2.0153871 2.3817599,2.2190638 2.38125,2.5399137 v 3.386839 c 5.099e-4,0.3208496 0.3453822,0.524527 0.6284614,0.3711607 L 6.1280522,4.6051566 c 0.2959304,-0.1603421 0.2959304,-0.5833049 0,-0.7436469 z"
-     style="color:#000000;fill:#ffffff;fill-opacity:1;stroke-width:0.680206;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;-inkscape-stroke:none"
-     id="path385"
-     sodipodi:nodetypes="ccccccc" />
+     d="M 3.9686841,1.3229167 V 3.824573 L 2.891276,2.938291 2.667,3.2106259 3.9686841,4.2467695 2.667,5.2827645 2.891276,5.5550985 3.9686841,4.6689655 V 7.1437501 L 5.8207679,5.5562505 4.4611606,4.2467695 5.8207679,3.0427085 Z m 0.3307293,0.7276042 0.9921875,0.9921876 -0.9921875,0.859896 z m 0,2.5135416 0.9921875,0.992188 -0.9921875,0.8598956 z"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.80006;stroke-linecap:round;stroke-linejoin:round"
+     id="path12311" />
   <path
      id="rect1107"
      style="opacity:0.2;fill:#ffffff;stroke-width:0.79375;stroke-linejoin:round"
