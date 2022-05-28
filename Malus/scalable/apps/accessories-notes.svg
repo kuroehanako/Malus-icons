@@ -7,8 +7,8 @@
    viewBox="0 0 16.933333 16.933334"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   sodipodi:docname="accessories-notes.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="gnome-notes.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,14 +26,16 @@
      units="px"
      height="64px"
      inkscape:zoom="12.40625"
-     inkscape:cx="31.959698"
+     inkscape:cx="32.040302"
      inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1024"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2" />
   <rect
@@ -55,7 +57,7 @@
      id="path3371" />
   <path
      id="rect5115"
-     style="fill:#dfb12f;fill-opacity:1;stroke-width:0.264583"
+     style="fill:#f2ba1c;fill-opacity:1;stroke-width:0.264583"
      d="m 4.2333334,1.0583334 h 8.4666676 c 1.758951,0 3.175001,1.41605 3.175001,3.175 V 5.2916668 H 1.0583334 V 4.2333334 c 0,-1.7589499 1.41605,-3.1749999 3.175,-3.175 z"
      sodipodi:nodetypes="sssccss" />
   <path

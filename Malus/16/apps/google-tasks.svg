@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="google-tasks.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="46.875"
+     inkscape:cx="7.6586667"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <rect
+     style="fill:#4f8be5;stroke-width:0.264583;fill-opacity:1"
+     id="rect846"
+     width="4.2333336"
+     height="4.2333336"
+     x="-2.220446e-16"
+     y="0"
+     ry="1.0583334" />
+  <path
+     d="M 3.12229,1.0583335 C 3.0379813,1.0582639 2.9571067,1.0917293 2.8974976,1.151351 L 1.4159342,2.6329144 c -0.1240285,0.1239978 -0.1240285,0.3250706 0,0.4490683 0.1239978,0.1240285 0.3250704,0.1240285 0.4490682,0 L 3.3465659,1.6004192 c 0.1240285,-0.1239978 0.1240285,-0.3250704 0,-0.4490682 C 3.2870839,1.091856 3.2064198,1.058401 3.12229,1.0583335 Z"
+     style="color:#000000;fill:#ffffff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     id="path405" />
+  <circle
+     style="fill:#fcc014;fill-opacity:1;stroke-width:0.264583"
+     id="path480"
+     cx="0.92604172"
+     cy="1.9843752"
+     r="0.39687502" />
+</svg>

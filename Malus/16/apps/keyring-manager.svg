@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="keyring-manager.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="54.125"
+     inkscape:cx="7.187067"
+     inkscape:cy="8.0184758"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <rect
+     style="fill:#4d4d4d;stroke-width:0.264583;fill-opacity:1"
+     id="rect846"
+     width="4.2333336"
+     height="4.2333336"
+     x="-2.220446e-16"
+     y="0"
+     ry="1.0583334" />
+  <circle
+     style="fill:#ececec;fill-opacity:1;stroke-width:0.264583"
+     id="path401"
+     cx="2.1166666"
+     cy="2.1166666"
+     r="1.5875" />
+  <circle
+     style="fill:#2696f7;fill-opacity:1;stroke-width:0.176389"
+     id="path778"
+     cx="2.1166666"
+     cy="2.1166668"
+     r="1.0583334" />
+  <circle
+     style="fill:#ececec;fill-opacity:1;stroke-width:0.203794"
+     id="path1039"
+     cx="2.1166666"
+     cy="2.1166666"
+     r="0.79374999" />
+  <path
+     id="rect1231"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.264583"
+     d="M 1.977657,1.3229168 C 1.907565,1.3264468 1.8520833,1.3842092 1.8520833,1.4552085 V 1.5875001 L 2.1166666,1.8520835 1.8520833,2.1166668 v 0.6614584 c 0,0.07329 0.059002,0.1322916 0.1322916,0.1322916 h 0.2645834 c 0.07329,0 0.1322917,-0.059002 0.1322917,-0.1322916 V 2.6458335 L 2.1166666,2.3812502 2.38125,2.1166668 V 1.4552085 c 0,-0.07329 -0.059002,-0.1322917 -0.1322917,-0.1322917 H 1.9843749 c -0.00229,0 -0.00446,-1.139e-4 -0.00672,0 z" />
+</svg>
